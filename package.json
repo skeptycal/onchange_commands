@@ -1,0 +1,22 @@
+{
+  "name": "occ",
+  "version": "1.0.0",
+  "description": "OnChange Commands - utilities for the 'onchange' npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "onchange",
+    "npm",
+    "js",
+    "node",
+    "python",
+    "repo"
+  ],
+  "author": "skeptycal <skeptycal@gmail.com> (https://www.github.com/skeptycal)",
+  "license": "MIT",
+  "dependencies": {
+    "onchange": "^7.0.2"
+  }
+}
